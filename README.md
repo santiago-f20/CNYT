@@ -30,10 +30,14 @@ El presente repositorio contiene una libreria capaz de hacer opereaciones entre 
 -  Producto tensor de dos matrices/vectores
 # Funcionamiento
 * Para empezar debe descargarse tanto lib1.py como test_lib1.py y ubicarlos en la misma carpeta.
-* Los archivos pueden ejecutarse en cualquier IDE de python, ya sea PyCharm, Spyder, IDLE python, entre otros. En este ejemplo utilizaremos PyCharm.
-! [Imgur] (https://imgur.com/lXliTfL.png)
-! [Imgur] (https://imgur.com/gy2CIWW.png)
-* Para ejecutar las pruebas y comprobar que la libreria funciona abrir el archivo test_lib1.py y correrlo.
+* Los archivos pueden abrirse en cualquier IDE de python, ya sea PyCharm, Spyder, IDLE python, entre otros. En este ejemplo utilizaremos PyCharm.
+* Para comprobar que la libreria funciona debe ejecutarse el archivo de los test. Este debe verse de la siguiente forma:
+![Imgur](https://i.imgur.com/gy2CIWW.jpg)
+
+* Una vez comprobado que funciona, puede procederce a hacer la operacion deseada. En este caso será una multiplicacion entre dos numeros complejos, sin embargo puede hacerce cualquiera de las que están nombradas al principio de este documento.
+![Imgur](https://i.imgur.com/lXliTfL.jpg)
+![Imgur](https://i.imgur.com/HemvgfW.jpg)
+
 
 
 
