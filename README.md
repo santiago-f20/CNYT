@@ -34,7 +34,7 @@ El presente repositorio contiene una libreria capaz de hacer opereaciones entre 
 * Para comprobar que la libreria funciona debe ejecutarse el archivo de los test. Este debe verse de la siguiente forma:
 ![Imgur](https://i.imgur.com/gy2CIWW.jpg)
 
-* Una vez comprobado que funciona, puede procederce a hacer la operacion deseada. En este caso será una multiplicacion entre dos numeros complejos, sin embargo puede hacerce cualquiera de las que están nombradas al principio de este documento.
+* Una vez comprobado que funciona, puede procederce a hacer la operacion deseada. En este caso será una multiplicacion entre dos numeros complejos, sin embargo, puede hacerce cualquiera de las que están nombradas al principio de este documento.
 ![Imgur](https://i.imgur.com/lXliTfL.jpg)
 ![Imgur](https://i.imgur.com/HemvgfW.jpg)
 
