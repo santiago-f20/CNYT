@@ -31,8 +31,8 @@ El presente repositorio contiene una libreria capaz de hacer opereaciones entre 
 # Funcionamiento
 * Para empezar debe descargarse tanto lib1.py como test_lib1.py y ubicarlos en la misma carpeta.
 * Los archivos pueden ejecutarse en cualquier IDE de python, ya sea PyCharm, Spyder, IDLE python, entre otros. En este ejemplo utilizaremos PyCharm.
-! [Imgur](https://imgur.com/lXliTfL)
-! [Imgur](https://imgur.com/gy2CIWW)
+! [Imgur](https://imgur.com/lXliTfL.png)
+! [Imgur](https://imgur.com/gy2CIWW.png)
 * Para ejecutar las pruebas y comprobar que la libreria funciona abrir el archivo test_lib1.py y correrlo.
 
 
