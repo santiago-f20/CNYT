@@ -58,7 +58,7 @@ Esta parte de la libreria contiene:
 * Ejemplo probabilidades en sistema Clasico:</p>
 ![Imgur](https://i.imgur.com/ZXCNhJW.png)</p>
 
-</p>* Ejemplo probabilidades en sistema Cuantico:</p>
+* Ejemplo probabilidades en sistema Cuantico:</p>
 ![Imgur](https://i.imgur.com/n2xFFoc.png)</p>
 
 * Ejemplos Graficas:</p>
